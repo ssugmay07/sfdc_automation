@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71590" started-at="2019-10-07T09:22:53Z" finished-at="2019-10-07T09:24:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71590" started-at="2019-10-07T09:22:53Z" finished-at="2019-10-07T09:24:05Z">
+      <class name="PageobmodelTestcases.AutomationTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:PageobmodelTestcases.AutomationTest@1e88b3c]" name="setup" is-config="true" duration-ms="13233" started-at="2019-10-07T09:22:53Z" finished-at="2019-10-07T09:23:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="CheckRememberme()[pri:0, instance:PageobmodelTestcases.AutomationTest@1e88b3c]" name="CheckRememberme" duration-ms="2138" started-at="2019-10-07T09:23:07Z" finished-at="2019-10-07T09:23:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckRememberme -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:PageobmodelTestcases.AutomationTest@1e88b3c]" name="TearDown" is-config="true" duration-ms="879" started-at="2019-10-07T09:23:09Z" finished-at="2019-10-07T09:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:PageobmodelTestcases.AutomationTest@1e88b3c]" name="setup" is-config="true" duration-ms="12328" started-at="2019-10-07T09:23:10Z" finished-at="2019-10-07T09:23:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TestForgotpwdlink()[pri:0, instance:PageobmodelTestcases.AutomationTest@1e88b3c]" name="TestForgotpwdlink" duration-ms="309" started-at="2019-10-07T09:23:22Z" finished-at="2019-10-07T09:23:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestForgotpwdlink -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:PageobmodelTestcases.AutomationTest@1e88b3c]" name="TearDown" is-config="true" duration-ms="816" started-at="2019-10-07T09:23:22Z" finished-at="2019-10-07T09:23:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:PageobmodelTestcases.AutomationTest@1e88b3c]" name="setup" is-config="true" duration-ms="12099" started-at="2019-10-07T09:23:23Z" finished-at="2019-10-07T09:23:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLoginErrormsg()[pri:0, instance:PageobmodelTestcases.AutomationTest@1e88b3c]" name="verifyLoginErrormsg" duration-ms="1318" started-at="2019-10-07T09:23:35Z" finished-at="2019-10-07T09:23:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginErrormsg -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:PageobmodelTestcases.AutomationTest@1e88b3c]" name="TearDown" is-config="true" duration-ms="717" started-at="2019-10-07T09:23:36Z" finished-at="2019-10-07T09:23:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:PageobmodelTestcases.AutomationTest@1e88b3c]" name="setup" is-config="true" duration-ms="11864" started-at="2019-10-07T09:23:37Z" finished-at="2019-10-07T09:23:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="SalesforceLogoImgTest()[pri:1, instance:PageobmodelTestcases.AutomationTest@1e88b3c]" name="SalesforceLogoImgTest" duration-ms="59" started-at="2019-10-07T09:23:49Z" finished-at="2019-10-07T09:23:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SalesforceLogoImgTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:PageobmodelTestcases.AutomationTest@1e88b3c]" name="TearDown" is-config="true" duration-ms="648" started-at="2019-10-07T09:23:49Z" finished-at="2019-10-07T09:23:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:PageobmodelTestcases.AutomationTest@1e88b3c]" name="setup" is-config="true" duration-ms="12406" started-at="2019-10-07T09:23:50Z" finished-at="2019-10-07T09:24:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ValidLoginTest()[pri:2, instance:PageobmodelTestcases.AutomationTest@1e88b3c]" name="ValidLoginTest" duration-ms="1941" started-at="2019-10-07T09:24:02Z" finished-at="2019-10-07T09:24:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidLoginTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:PageobmodelTestcases.AutomationTest@1e88b3c]" name="TearDown" is-config="true" duration-ms="775" started-at="2019-10-07T09:24:04Z" finished-at="2019-10-07T09:24:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- PageobmodelTestcases.AutomationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

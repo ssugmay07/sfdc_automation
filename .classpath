@@ -35,5 +35,10 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="var" path="M2_REPO"/>
+	<classpathentry kind="lib" path="C:/Users/ssuga/Documents/tek Arch/selenium/eccel_jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ssuga/Documents/tek Arch/selenium/eccel_jars/poi-3.9.jar"/>
+	<classpathentry kind="src" path="/phase1_Sfdc_Automation"/>
+	<classpathentry kind="src" path="/salesforce"/>
+	<classpathentry kind="src" path="/Selenium"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
